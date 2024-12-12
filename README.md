@@ -30,7 +30,7 @@ The Sales Assistant Agent is a Streamlit-based application powered by Groq AI. T
 ## Usage
 
 1. Run the application:
-```bash
+    ```bash
     streamlit run app.py
 
 2. Fill out the input form with the required details or upload a document.
