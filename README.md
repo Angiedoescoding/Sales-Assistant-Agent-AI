@@ -35,5 +35,5 @@ The Sales Assistant Agent is a Streamlit-based application powered by Groq AI. T
 
 2. Fill out the input form with the required details or upload a document.
 
-3. View the insights and download them as a PDF.
+3. View the insights.
 
