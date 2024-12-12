@@ -21,16 +21,19 @@ The Sales Assistant Agent is a Streamlit-based application powered by Groq AI. T
     pip install -r requirements.txt
 
 3. Add your API keys to secrets.toml:
-```bash
+
     GROQ_API_KEY = "your_groq_api_key"
 
     TAVILY_API_KEY = "your_tavily_api_key"
 
+
 ## Usage
 
 1. Run the application:
-streamlit run app.py
+```bash
+    streamlit run app.py
 
 2. Fill out the input form with the required details or upload a document.
+
 3. View the insights and download them as a PDF.
 
