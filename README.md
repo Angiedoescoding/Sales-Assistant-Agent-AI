@@ -9,7 +9,7 @@ The Sales Assistant Agent is a Streamlit-based application powered by Groq AI. T
 - Summarize public statements from key company leaders.
 - Suggest actionable recommendations for competitive improvement.
 - Allow users to upload documents (PDF, DOCX, TXT) for parsing.
-- Generate and download insights as a PDF file.
+
 
 ## Installation
 1. Clone the repository:
@@ -17,12 +17,14 @@ The Sales Assistant Agent is a Streamlit-based application powered by Groq AI. T
    git clone https://github.com/your-repo/sales-assistant-agent.git
 
 2. Install dependencies:
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Add your API keys to secrets.toml:
-[default]
-GROQ_API_KEY = "your_groq_api_key"
-TAVILY_API_KEY = "your_tavily_api_key"
+```bash
+    GROQ_API_KEY = "your_groq_api_key"
+
+    TAVILY_API_KEY = "your_tavily_api_key"
 
 ## Usage
 
